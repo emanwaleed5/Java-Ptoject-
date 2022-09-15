@@ -1,0 +1,10 @@
+Object-oriented programming allows you to derive new classes from existing classes. This is called ?
+A) encapsulation.
+B) inheritance.
+C) abstraction.
+D) generalization.
+Which of the statements regarding the super keyword is incorrect?
+A) You can use super to invoke a super class constructor.
+B) You can use super to invoke a super class method.
+C) You can use super-super-p to invoke a method in superclass's parent class.
+D) You cannot invoke a method in superclass's parent class.
